@@ -1,0 +1,14 @@
+// overview description file for aim_throwback.bsp
+
+global 
+{
+	ZOOM	4.65
+	ORIGIN	0	0	104
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_throwback.bmp"
+	HEIGHT	104
+}
