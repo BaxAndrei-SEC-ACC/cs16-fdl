@@ -1,0 +1,12 @@
+35HP_2 - Deathmatch
+Map by dumbass0025
+
+Terrorists: Eliminate all Counter-Terrorists with only 35 HP.
+
+Counter-Terrorists: Eliminate all Terrorists with only 35 HP.
+
+Other Notes: A low-health, high-speed map 
+for fast and intense combat. The round 
+ends when one team is completely wiped out.
+
+Have fun!

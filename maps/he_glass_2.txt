@@ -1,0 +1,7 @@
+Glass 2.0 by Jepeto
+
+This is an improved version of the original he_glass map.
+
+Up to 20 players are supported.
+
+Have fun!

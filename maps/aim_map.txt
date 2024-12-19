@@ -1,0 +1,18 @@
+aim_map - Aim Training
+Map by Johan 'w00d' Bjarnle & Filip 'tntman' Orrby
+
+Terrorists: Eliminate all Counter-Terrorists.
+
+Counter-Terrorists: Eliminate all Terrorists.
+
+Other Notes: A map designed for aim training and 
+improving accuracy. Ideal for practicing headshots 
+and reaction time in a controlled environment.
+
+History: In 2002, Johan and Filip created aim_map 
+to address the lack of aim training maps in Counter-Strike. 
+After sharing it at a LAN-party in Sweden, it quickly spread 
+and was hosted on hundreds of servers, becoming a staple 
+in the CS community.
+
+Have fun!

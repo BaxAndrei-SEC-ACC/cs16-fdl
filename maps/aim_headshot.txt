@@ -1,0 +1,12 @@
+aim_headshot - Aim Training
+Map by Shoutman
+
+Terrorists: Eliminate all Counter-Terrorists with headshots.
+
+Counter-Terrorists: Eliminate all Terrorists with headshots.
+
+Other Notes: A map focused on headshot training, 
+perfect for improving accuracy and precision. 
+Practice your aim in a controlled, fast-paced environment.
+
+Have fun!

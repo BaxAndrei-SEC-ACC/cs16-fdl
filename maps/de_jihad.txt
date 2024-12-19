@@ -1,0 +1,12 @@
+de_jihad / Bomb Defuse
+
+* by Slim Z. (alysson.barroso@bol.com.br)
+* textures by Philipk
+* skybox by X-tender
+* models used: cs_pacific, de_halla and de_plaka
+
+Thanks to: Mib members
+
+
+
+(Press FIRE to continue)

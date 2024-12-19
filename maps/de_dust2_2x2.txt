@@ -1,0 +1,13 @@
+Dust2_2x2 - Bomb/Defuse
+Map by Ghost1495111
+
+Counter-Terrorists: Defend the bomb sites 
+and prevent the Terrorists from planting the bomb.
+
+Terrorists: Plant the bomb at one of the 
+designated bomb sites and protect it until it detonates.
+
+Other Notes: A smaller version of Dust2, 
+designed for faster, more intense gameplay. 
+
+Have fun!

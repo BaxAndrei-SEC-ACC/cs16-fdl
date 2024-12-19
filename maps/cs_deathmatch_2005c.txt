@@ -1,0 +1,12 @@
+DeathMatch_2005C
+Map by deepeyes
+
+Terrorists: Eliminate all Counter-Terrorists.
+
+Counter-Terrorists: Eliminate all Terrorists.
+
+Other Notes: A small, fast-paced map perfect
+for intense close-quarters combat. Round ends
+when one team is completely wiped out.
+
+Have fun!

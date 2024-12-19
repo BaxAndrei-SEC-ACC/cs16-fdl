@@ -1,0 +1,12 @@
+fy_mini_map_nopink - Deathmatch
+Map by Blackcock
+
+Terrorists: Eliminate all Counter-Terrorists.
+
+Counter-Terrorists: Eliminate all Terrorists.
+
+Other Notes: A compact, fast-paced map with
+concrete surroundings. Ideal for close-quarters
+combat. Round ends when one team is completely wiped out.
+
+Have fun!
