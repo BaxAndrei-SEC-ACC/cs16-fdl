@@ -1,0 +1,14 @@
+// overview description file for de_jihad.tga
+
+global 
+{
+	ZOOM	1.17
+	ORIGIN	288  318.88  192
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_jihad.bmp"
+	HEIGHT	-385
+}
