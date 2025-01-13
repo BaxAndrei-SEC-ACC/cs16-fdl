@@ -1,0 +1,13 @@
+// overview description file for awp_castelo.bsp
+global
+{
+ZOOM 1.42
+ORIGIN 0 0 792
+ROTATED 1
+}
+
+layer
+{
+IMAGE "overviews/awp_castelo.bmp"
+HEIGHT 1025
+}

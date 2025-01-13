@@ -1,0 +1,12 @@
+// Overview description file for de_aztecbridge.bsp
+global
+{
+	ZOOM	 1.38
+	ORIGIN	 -149.64	 -405.13	 -256.00
+	ROTATED 1
+}
+layer
+{
+	IMAGE	 "overviews/de_aztecbridge.bmp"
+	HEIGHT 	-545.00 
+} 

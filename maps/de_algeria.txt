@@ -1,0 +1,19 @@
+Gimlistan - Bomb / Defuse
+Mapping by:
+Gimli  (GimliW@gmx.net)
+Textures/Graphics by:
+Gimli (www.gimli-maps.de.vu)
+GarbageMan (C.Manschitz@gmx.de)
+Macman (MacManInfi@aol.com)
+Atomfried (www.atomfried-maps.de)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the oil tanks.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the two oil tanks. 
+
+
+(Press FIRE to continue)
