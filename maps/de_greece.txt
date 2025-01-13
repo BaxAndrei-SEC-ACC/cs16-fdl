@@ -1,0 +1,17 @@
+Greece - Bomb/Defuse
+by x$.n!ghtm@r3
+textures done by Madness
+
+Terrorists:		
+Terrorists carrying the C4 have to destroy 
+the 2 boilers or the small temple.	    		
+	
+Counter Terrorists: 	 
+Prevent the terrorist from			
+bombing the temple or the 2 boilers.
+
+Other Notes:
+There are 2 bombtargets in this map.			
+
+
+(Press FIRE to continue)

@@ -1,0 +1,33 @@
+Defusion Scenario
+
+Mapping by 3DPunk  
+(http://3dpunk.cstrike.org)
+(threedpunk@hotmail.com)
+ 
+November, 2001:   Despite an unprecedented International coalition 
+against Terrorism, the United States is once again under attack.  
+Seeking to destroy valuable and sensitive digital information, 
+the Tegea Corporation, an International Data Storage Facility, 
+has become the focus of terrorist activity. 
+
+Hosting major corporations, banks, and other industrial networks, 
+such a disruption could potentially cripple the already struggling 
+world economy.  Through the newly established Homeland Defense 
+System, Intelligence reports suggest that an impending attack on Building
+One of the Tegea World Headquarters is highly probable.
+
+
+Mission Objectives:
+
+Terrorists:  Locate and destroy one of the two SAN (Storage Area Network) 
+server rooms on the second floor. 
+
+Counter-Terrorists: Access the building; secure the SAN servers and 
+contain the situation; eliminate any potential threat. 
+
+  
+
+
+
+(Press FIRE to continue)
+ 
