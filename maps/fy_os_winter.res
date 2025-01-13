@@ -6,3 +6,4 @@
 // .res entries (11):
 os.wad
 fy_os_winter.wad
+cs_cbble.wad
