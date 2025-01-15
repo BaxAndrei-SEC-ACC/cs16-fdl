@@ -1,0 +1,14 @@
+// overview description file for de_vallentia.bsp
+
+global 
+{
+	ZOOM	2.26
+	ORIGIN	-728.81  1702.31  85.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_vallentia.bmp"
+	HEIGHT	-196
+}
