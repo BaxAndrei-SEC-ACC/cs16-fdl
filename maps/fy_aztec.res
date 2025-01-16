@@ -1,1 +1,1 @@
-ambience/crickets.wav
+sound/ambience/crickets.wav
