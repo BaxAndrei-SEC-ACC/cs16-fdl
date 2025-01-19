@@ -17,4 +17,3 @@ gfx/env/riort.tga
 gfx/env/rioup.tga
 overviews/cs_rio.bmp
 overviews/cs_rio.txt
-RIODME.txt
