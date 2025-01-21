@@ -1,0 +1,20 @@
+cs_wpndepot - Hostage Rescue  
+Mapping by: [Unknown Author]  
+Textures: Standard CS Textures  
+
+Briefing:  
+A secret weapons depot has been infiltrated  
+by a Terrorist group. Depot staff and guards  
+have been taken hostage to gain access to  
+secure areas.  
+
+Counter-Terrorists: Locate and rescue the  
+hostages inside the depot. Escort them to  
+the extraction zone while avoiding heavy  
+resistance.  
+
+Terrorists: Prevent the Counter-Terrorists  
+from rescuing the hostages. Use the depot's  
+layout to secure your positions.  
+
+(Press FIRE to continue)
