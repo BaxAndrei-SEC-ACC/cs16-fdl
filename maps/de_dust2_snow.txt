@@ -1,7 +1,19 @@
-de_dust2_snow - Bomb-Defuse
+de_dust2_snow - Bomb/Defuse  
+Map by: ShaLkE  
+Original Map by: David Johnston (Creator of de_dust2)  
 
-https://maps.cs-bg.info/maps/cs/2666/
+Briefing:  
+Set in a winter wonderland, this snowy version of  
+the classic **de_dust2** map brings familiar  
+strategic elements with a frosty twist. The snow-covered  
+landscape offers new challenges and opportunities.  
 
-Have FUN!
+Counter-Terrorists: Prevent the Terrorists from  
+planting the bomb at one of the two key bomb sites.  
 
-(Press Fire to Continue)
+Terrorists: Plant the C4 at either bomb site and  
+secure the area until detonation.  
+
+Have fun and good luck!  
+
+(Press FIRE to continue)  

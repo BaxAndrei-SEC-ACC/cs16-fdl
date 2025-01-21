@@ -1,11 +1,23 @@
-﻿圣托里尼(Santorini) - 폭탄설치 / 해체
-地图制作: Nexon
-地图纹理: Nexon
+﻿de_santorini - Bomb/Defuse  
+Map by: Nexon  
+Textures by: Nexon  
 
-地图类型：解除炸弹
-CT阵营：解除在目标区域安装的所有炸弹。
-T阵营：持有C4炸弹的T阵营成员必须将其安装在两处地方中任意一处。
-其他：在这个地图中爆破目标有2处。
+Briefing:  
+Set in the picturesque streets of Santorini,  
+this map features a thrilling bomb/defuse  
+scenario. The sun-drenched rooftops and  
+narrow alleys create intense tactical gameplay.  
 
-破解：你爹在厕所居然
-载入图：1056282997
+Counter-Terrorists: Prevent the Terrorists  
+from planting the bomb or defuse any bombs  
+that have been planted. Stay sharp and use  
+the environment to your advantage.  
+
+Terrorists: Plant the C4 at one of the two  
+bomb sites and protect it until detonation.  
+Work together to secure the objective.  
+
+Objective: There are 2 bomb sites in this  
+mission. Coordination and precision are key!  
+
+(Press FIRE to continue)  

@@ -1,12 +1,22 @@
-de_jihad / Bomb Defuse
+de_jihad - Bomb/Defuse  
+Map by: Slim Z. (alysson.barroso@bol.com.br)  
+Textures by: Philipk  
+Skybox by: X-tender  
+Models used: cs_pacific, de_halla, de_plaka  
 
-* by Slim Z. (alysson.barroso@bol.com.br)
-* textures by Philipk
-* skybox by X-tender
-* models used: cs_pacific, de_halla and de_plaka
+Briefing:  
+In a war-torn environment, two teams face off  
+to control vital bomb sites. The map's  
+intricate design offers both open and tight  
+spaces for tactical gameplay.  
 
-Thanks to: Mib members
+Counter-Terrorists: Prevent the Terrorists  
+from planting the bomb at one of the two  
+bomb sites. Defend key areas and stay alert.  
 
+Terrorists: Plant the C4 at either of the bomb  
+sites and protect it until detonation.  
 
+Thanks to: Mib members for their support.  
 
-(Press FIRE to continue)
+(Press FIRE to continue) 

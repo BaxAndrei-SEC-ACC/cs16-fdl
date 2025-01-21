@@ -1,5 +1,18 @@
-awp_dust - Sniper War
+awp_dust - Sniper War  
+Map by: Papacu  
 
-https://maps.cs-bg.info/maps/cs/2876/
+Briefing:  
+Set in a sniper’s battlefield, this map transforms  
+the iconic **dust** into a high-stakes arena for  
+long-range combat. With open sightlines and  
+strategic vantage points, only the most skilled  
+marksmen will emerge victorious.  
 
-Have Fun!
+Objective:  
+Eliminate the opposing team using your  
+sniper rifle. Patience, precision, and perfect aim  
+are key to winning in this intense sniper duel.  
+
+Have fun and good luck!  
+
+(Press FIRE to continue)  

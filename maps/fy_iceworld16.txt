@@ -1,9 +1,16 @@
-fy_iceworld16
+fy_iceworld16 - Fight Yard  
+Map by: Fantasy  
 
-https://maps.cs-bg.info/maps/cs/2122/
+Briefing:  
+A snowy, fast-paced battleground where quick  
+reflexes and sharp aim are key. Engage in intense  
+combat in this icy arena, where victory comes  
+through eliminating the opposing team.  
 
-Counter-Terrorists: Go and kill some Terrorists!
+Counter-Terrorists: Eliminate all Terrorists and  
+control the arena.  
 
-Terrorists: Go and kill some Counter-Terrorists!
+Terrorists: Take down all Counter-Terrorists  
+to secure your win.  
 
-(Press FIRE to continue)
+(Press FIRE to continue)  

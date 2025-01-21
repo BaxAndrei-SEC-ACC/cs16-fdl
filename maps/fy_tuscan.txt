@@ -1,7 +1,19 @@
-fy_tuscan map by Vova.
+fy_tuscan - Fight Yard  
+Map by: Vova  
 
-Terrorists: Kill Counter-Terrorists.
+Briefing:  
+Step into the vibrant streets of Tuscan,  
+where fast-paced action awaits. The map's  
+narrow paths and open areas provide plenty  
+of opportunities for close combat and quick  
+decisions.  
 
-Counter-Terrorists: Kill Terrorists.
+Terrorists: Eliminate all Counter-Terrorists.  
+Use the environment to outmaneuver and  
+surprise your enemies.  
 
-(Press FIRE to continue)
+Counter-Terrorists: Take down all Terrorists.  
+Control key areas of the map and stay alert  
+to secure the victory.  
+
+(Press FIRE to continue)  

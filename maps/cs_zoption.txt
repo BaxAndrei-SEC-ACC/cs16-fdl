@@ -1,3 +1,17 @@
-Zoption (cs_zoption) - Hostage Rescue
+cs_zoption - Hostage Rescue  
+
+Briefing:  
+In a high-stakes rescue operation, your team  
+must save the hostages from a dangerous situation.  
+Navigate through challenging terrain and execute  
+the rescue with precision.  
+
+Counter-Terrorists: Locate and rescue the hostages  
+from the enemy-controlled area, and lead them to  
+the safety zone.  
+
+Terrorists: Prevent the Counter-Terrorists from  
+rescuing the hostages. Hold your ground and  
+defend your position.  
 
 (Press FIRE to continue)

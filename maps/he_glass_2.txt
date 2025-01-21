@@ -1,7 +1,16 @@
-Glass 2.0 by Jepeto
+he_glass_2 - Grenade Arena  
+Map by: Jepeto  
 
-This is an improved version of the original he_glass map.
+Briefing:  
+This is an enhanced version of the classic  
+he_glass map, featuring improved design  
+and optimized gameplay for intense battles.  
 
-Up to 20 players are supported.
+Objective:  
+Up to 20 players can join this chaotic arena.  
+Use grenades strategically to shatter the  
+glass floors and eliminate your opponents.  
 
-Have fun!
+Have fun and may the best player win!  
+
+(Press FIRE to continue)  

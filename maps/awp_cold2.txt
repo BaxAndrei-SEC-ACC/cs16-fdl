@@ -1,5 +1,17 @@
-awp_cold2 - Sniper War
+awp_cold2 - Sniper War  
+Map by: Reilas
 
-https://maps.cs-bg.info/maps/cs/2344/
+Briefing:  
+Set in a cold, challenging environment, this  
+map offers intense sniper duels. With plenty  
+of cover and long-range opportunities, only  
+the most skilled snipers will prevail.  
 
-Have Fun!
+Objective:  
+Eliminate the opposing team using your  
+sniper rifle. Precision and patience are  
+key to winning in this snowy battlefield.  
+
+Have fun and good luck!  
+
+(Press FIRE to continue)  

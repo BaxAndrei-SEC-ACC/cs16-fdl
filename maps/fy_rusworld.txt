@@ -1,8 +1,17 @@
-fy_rusworld
+fy_rusworld - Fight Yard  
+Map by: P1CKL3  
+Special Thanks: CS RUSLV  
 
-https://maps.cs-bg.info/maps/cs/2879/
+Briefing:  
+Dive into intense, fast-paced combat in **fy_rusworld**,  
+a map designed for quick action and decisive firefights.  
+With a simple yet dynamic layout, it's all about taking  
+out the opposition before they do the same to you.  
 
-Terrorists:  Kill Counter-Terrorists 
-Counter-Terrorists:  Kill Terrorists 
+Terrorists: Eliminate all Counter-Terrorists and secure  
+the area.  
 
-(Press FIRE to continue)
+Counter-Terrorists: Take down all Terrorists and defend  
+your position.  
+
+(Press FIRE to continue) 

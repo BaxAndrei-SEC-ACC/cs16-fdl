@@ -1,11 +1,15 @@
-aim_suvivor
-by Sp@wN  ( f0X )>= Sp@wN )
+aim_survivor - Aim Arena  
+Map by: Sp@wN (f0X) >= Sp@wN)  
 
+Briefing:  
+An intense survival challenge where quick reflexes  
+and precise aim are crucial. Fight to eliminate  
+the opposing team in this compact arena.  
 
-Contra-Terroristas: Matem todos os terroristas.
+Counter-Terrorists: Eliminate all Terrorists  
+and protect your position.  
 
+Terrorists: Take out all the Counter-Terrorists  
+to secure victory.  
 
-Terroristas: Matem todos os policiais.
-
-
-(pressione tiro pata continuar
+(Press FIRE to continue)  

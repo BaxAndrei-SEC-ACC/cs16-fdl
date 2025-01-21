@@ -1,9 +1,17 @@
-Blast 'em All.
+Blast 'em All - Fight Yard  
+Map by: Squall  
+Original **fy_pool_day** Creator: irq433  
+Small Lighting Fix: irq433  
 
-https://maps.cs-bg.info/maps/cs/2964/
+Briefing:  
+An intense battle awaits in a dynamic arena where  
+quick reflexes and heavy firepower reign. The mission  
+is simple: eliminate the enemy team at all costs.  
 
- Have FUN!
+Objective:  
+Take out the opposing team in fast-paced combat.  
+Use strategy, speed, and aim to secure victory.  
 
+Have fun and good luck!  
 
-
-
+(Press FIRE to continue)  

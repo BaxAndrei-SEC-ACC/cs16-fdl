@@ -1,11 +1,19 @@
-de_quarry
-by narby - fragglenerb@yahoo.com
+de_quarry - Bomb/Defuse  
+Map by: narby (fragglenerb@yahoo.com)  
 
-Counter-terrorists 
+Briefing:  
+A battle for the environment is underway at a  
+quarry site, where terrorists seek to destroy  
+machinery that threatens the forest. The clash  
+between nature and industry unfolds as two teams  
+compete for control.  
 
-Prevent the tree huggers from destroying the machinary
+Counter-Terrorists: Prevent the Terrorists from  
+planting the bomb at the key quarry machinery.  
+Defend the equipment and protect the site.  
 
-Terrorists 
+Terrorists: Infiltrate the quarry and plant the  
+C4 to destroy the machines, halting the capitalist  
+effort to destroy the forest. Save the forest creatures!  
 
-It is your duty to strike a crushing blow to the capitalist forest destroying quarry operation!
-Infiltrate the facility and destroy their digging equipment. Save the forest creatures!
+(Press FIRE to continue)  

@@ -1,11 +1,1 @@
-Garden World
-by Mughoj (info@mughoj.dk)
-
----
-Textures:
-Original valve & cstrike
-Borrowed from Aztec
-A couple by myself
----
-
-Have fun...
+Garden World - Aim Arena  Map by: Mughoj (info@mughoj.dk)  Briefing:  Set in a lush, tranquil garden environment,  this map offers a peaceful backdrop for intense  combat. With a focus on aim and precision,  you'll need to stay sharp to outplay your enemies.  Textures:  - Original Valve & Counter-Strike  - Borrowed from Aztec  - A couple created by Mughoj  Have fun and enjoy the battle!  (Press FIRE to continue)  

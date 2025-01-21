@@ -1,12 +1,27 @@
-De_Vallentia - Defusion
-par JulFisher (julfisher_64@yahoo.fr)
+de_vallentia - Bomb/Defuse  
+Map by: JulFisher (julfisher_64@yahoo.fr)  
 
-Le jeu se déroule dans une ville antique en ruine, nommée Vallentia, qui a été rénovée pour devenir un centre de vacances touristique. Ces ruines ont été découvertes en Aquitaine, près de la côte basque. Mais voilà, des terroristes tentent de s'y attaquer.
+Briefing:  
+Set in the ancient ruins of Vallentia,  
+now repurposed as a tourist destination.  
+These ruins, discovered in Aquitaine near  
+the Basque coast, have become a battleground  
+as terrorists target the site.  
 
-L'évacuation effectuée, le GIGN décide d'agir.
+Counter-Terrorists: Prevent the Terrorists  
+from planting the bomb at either of the  
+two bomb sites. Protect the ruins and  
+maintain control of critical areas.  
 
-NB: Il y a 2 sites de bombe : 
-Alpha correspond au site du "restaurant" en construction.
-Bêta correspond à l'allée en face de la petite maison aux volets cassés.
+Terrorists: Plant the C4 at one of the two  
+bomb sites:  
+- Alpha: The construction site of a "restaurant."  
+- Beta: The alley in front of the small house with  
+  broken shutters.  
 
-http://julfisher.free.fr/de_vallentia/
+The GIGN has been called in for the evacuation,  
+and now it's time to act.  
+
+Visit: http://julfisher.free.fr/de_vallentia/  
+
+(Press FIRE to continue)  
