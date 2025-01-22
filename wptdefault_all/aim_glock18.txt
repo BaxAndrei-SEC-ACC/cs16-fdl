@@ -1,0 +1,14 @@
+// overview description file for as_oilrig.bsp
+
+global 
+{
+	ZOOM	3.61
+	ORIGIN	524.19 	-1034.68	136
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_glock18.bmp"
+	HEIGHT	136
+}

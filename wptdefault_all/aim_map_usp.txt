@@ -1,0 +1,14 @@
+// overview description file for aim_map_usp.bsp
+
+global 
+{
+	ZOOM	4.15
+	ORIGIN	718 	200	-1.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_map_usp.bmp"
+	HEIGHT	-1.00
+}

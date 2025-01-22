@@ -1,0 +1,233 @@
+<html>
+<head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2034316-1";
+urchinTracker();
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<style>
+textarea { border: 1px solid #E5E5E5; overflow: auto; }
+body,td,p { font-family: Verdana; font-size: 12px; }
+
+label { cursor: pointer; }
+.labelHead { font-weight: bold; cursor: pointer; }
+
+.header {
+        border-top: solid 1px #E5ECF9;
+        text-align: left;
+        padding: 2px;
+        padding-left: 0px;
+}
+.bottomlinksH {
+        line-height: 15px;
+}
+.bottomlinks {
+	font-size:10px;
+        color: #0000ff;
+        line-height: 15px;
+        text-decoration: none;
+}
+.toplinks {
+	font-size:10px;
+        color: #0000ff;
+        line-height: 15px;
+        text-decoration: none;
+}
+.bottomlinks:hover {
+text-decoration: underline;
+}
+
+a,.link { color: blue;
+        text-decoration: underline;
+	cursor: pointer;
+}
+.linknun { color: blue;
+	cursor: pointer;
+}
+.sort { color: black;
+        text-decoration: none;
+}
+
+.nowr { white-space: nowrap; }
+
+.pager,.pagerW,.pagerNrCurrent
+{
+   padding: 2px;
+   margin: 2px;
+   font-size: 11px;
+   text-decoration:none;
+}
+.pagerW { border: 1px dashed silver; padding: 5px; margin: 3px; margin-top: 10px; background-color: #EEEEFF; }
+.pagerNr { color: #0000FF; }
+.pagerNrCurrent { color: #AAAAAA; text-decoration: overline; }
+
+.sort:hover { text-decoration: underline; }
+.green {
+      color: #008000;
+}
+.greenInfo {
+      color: #FF0000;
+}
+.redInfo {
+      color: #FF0000;
+}
+.ad { color: blue;
+      text-decoration: none;
+}
+.ad:hover {
+      text-decoration: underline;
+}
+
+.adHeadline {
+      text-decoration: underline;
+      font-family: Verdana,sans-serif;
+          font-size: 11px;
+          color: blue;
+
+}
+.adText {
+          text-decoration: none;
+          font-family: Verdana,sans-serif;
+          font-size: 11px;
+          color: black;
+}
+
+.result { font-family: Verdana,sans-serif;
+          font-size: 11px;
+}
+.respic {
+   float: left;
+   margin-right: 20px;
+}
+.resultlink { font-family: arial,sans-serif;
+              font-size: 13px;
+              color: blue;
+              font-weight: bold;
+              text-decoration: underline;
+              cursor: pointer;
+}
+.blueline { border-top: solid 1px #3366CC; 
+            background: #E5ECF9;
+	    font-size: 13px;
+	    padding: 5px;
+}
+.url { color: #009900; }
+.urlbox { color: #009900; border: 1px solid #858585; font-family: Verdana; font-size: 12px; overflow: hidden; border: 0px; width: 650px;}
+.trade { font-family: Arial,Serif; font-size: 12px; }
+
+.progress
+{
+   background-image: url('/gf/progress.png');
+   background-position: 1;
+   font-family: Verdana;
+   font-size: 10px;
+}
+
+</style>
+<script language="javascript">
+<!--
+
+   var f=0;
+
+   function setDisplay(element,enable)
+   {
+      document.getElementById(element).style.display=(enable?'inline':'none');
+   }
+   function tablebg(element,color)
+   {
+      document.getElementById(element).style.backgroundColor=color;
+   }
+
+
+   function selectLinkCode(id)
+   {
+      document.getElementById(id).focus();
+      document.getElementById(id).select();
+   }
+
+   function anotherFile()
+   {
+      f++;
+      document.getElementById("nextfiles"+f).innerHTML+='<span id=f'+f+'>'
+        +'<BR><img src=/gf/spacer.gif border=0 width=1 height=2><BR>'
+        +'<input type=file name=fileup'+f+' size="70"></span><span id=nextfiles'+(f+1)+'></span>';
+      document.getElementById("nextremove"+f).innerHTML+='<span id=r'+f+'>'
+        +'<font size=1 class=link onClick="document.getElementById(\'f'+f+'\').innerHTML=\'\'; document.getElementById(\'r'+f+'\').innerHTML=\'\';">remove<BR><BR></font></span><span id=nextremove'+(f+1)+'></span>';
+   }
+
+   function progressBar(x)
+   {
+      document.getElementById("progressbar").style.visibility = x;
+      return 0;
+   }
+
+
+-->
+</script>
+<title>de_mario_air.pwf</title></head>
+<body BGCOLOR="#FFFFFF" leftMargin="7" topMargin="7" marginheight="7" marginwidth="7">
+<table border=0 cellspacing=0 cellpadding=0 width="100%">
+<tr><td width=235>
+<a href="http://www.speedyshare.com/" target=_top><img border=0 src=/gf/logo_small.png width=235 height=75></a>
+</td><td valign=bottom align=left>
+  <a href="http://www.speedyshare.com/" target=_top class=toplinks>Home</a> -
+  <a href="http://www.speedyshare.com/" target=_top class=toplinks>Upload File</a> -
+  <a href="http://www.speedyshare.com/?search" target=_top class=toplinks>Search</a> -
+<a href="http://www.speedyshare.com/login.php?/files/22094327/de_mario_air.pwf" target=_top class=toplinks>Login</a></td>
+</tr></table>
+<h2 class=blueline><b>File download</b></h2><table border=0 width='100%' cellspacing=10 cellpadding=0 style="position: relative; top: -10px; left: -10px;"><tr><td width=360 valign=top><img src=/gf/spacer.gif width=360 height=1><br>
+<table border=0 cellspacing=0 cellpadding=0 align=center>
+<tr><td><img src=gf/spacer.gif width=1 height=15><br>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9003321689635554";
+/* top left banner, 336x280 */
+google_ad_slot = "1496956186";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr>
+</table>
+</td><td background=/gf/lineup.png style="background-repeat: repeat-y;" width=2><img width=2 height=1 border=0 src=/gf/lineup.png></td><td width=10><img width=10 height=1 border=0 src=/gf/spacer.gif></td><script>
+       var mins = new Array();
+       var secs = new Array();
+       function minwait(c)
+       {
+          secs[c]=secs[c]-1; if (secs[c]<0) { secs[c]=59; mins[c]=mins[c]-1 };
+          if (mins[c]<=0 && secs[c]<=0) { document.getElementById('waitrow'+c).style.display='none'; return; }
+          document.getElementById('wait'+c).innerHTML=mins[c]+':'+(secs[c]<10?'0':'')+secs[c];
+       }
+    </script><td valign=top><div style="margin-top: 15px; height: 60px;"><div style="float: left; margin-right: 20px;"><img width=40 height=60 src=/gf/ark2.png border=0></div><span class=resultlink><a href="/files/22094327/download/de%20mario%20air.pwf">de mario air.pwf</a></span><img src=/gf/spacer.gif width=1 height=1 style="margin-left: 5px;"><span class=resultlink><a href="/files/22094327/force/de%20mario%20air.pwf"><img src=/gf/pop.png border=0></a></span><div class=result>This file has been downloaded 6 times</div><div class=result>File size 69.21 KB, uploaded 18 days 13 hours 19 minutes  ago</div></div><div style="margin-top: 15px; height: 60px;"><div style="float: left; margin-right: 20px;"><img width=40 height=60 src=/gf/star.png border=0></div><div class=resultlink><a target=_top href='http://www.speedyshare.com/login.php?now'>Thank you for using SpeedyShare! Need more?</a></div><div class=result>Search in our database, upload up to 2 GB per file, download Instantly,</div><div class=result>see your Upload History, forget all limits, feel like a VIP! For a cheap fee.</div></div><br><div style="width: 530px"><p class=header>Description:</p><p align=justify>1.0 beta<br />
+<br />
+final version coming soon!</div><br><div style="width: 530px"><p class=header>Notes for File Types of shared files:</p><b>PWF:</b><p align=justify>
+	SpeedyShare doesn't know the type of this file. It may be practically
+	everything, compressed archive, video, picture, or something else. Make
+	sure to check the file for viruses, because computer viruses are very
+	dangerous. If you don't have any antivirus program, consider buying
+	one.</p></div><br><font size=1 color=silver>File uploaded from IP address 78.50.228.54 (Germany)</font></td></tr></table><p class="blueline">&nbsp;</p><BR>
+<div align=center class=bottomlinksH>
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/">Upload File</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/?search">Search</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/login.php">Login</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/news.php">Server News</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/money.php">Make Money</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/delete.php?url=http://www.speedyshare.com/files/22094327/de_mario_air.pwf">Delete</a>
+<br>
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/terms.php">Terms Of Service</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/about.php">About</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/dmca.php">DMCA Policy</a> -
+<a class=bottomlinks target=_top href="http://www.speedyshare.com/contact.php">Contact us</a>
+</div>
+<br>
+<div align=center><a href=http://www.facebook.com/pages/SpeedyShare/134846454165><img src=/gf/facebook.gif border=0></a></div></body>
+</html>

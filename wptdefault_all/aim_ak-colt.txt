@@ -1,0 +1,14 @@
+// overview description file for aim_ak-colt.bsp
+
+global 
+{
+	ZOOM	2.82
+	ORIGIN	768 	-768	-1.0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_ak-colt.bmp"
+	HEIGHT	-1.0
+}
