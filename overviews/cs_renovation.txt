@@ -1,0 +1,14 @@
+// overview description file for cs_renovation.bsp
+
+global 
+{
+	ZOOM	1.55
+	ORIGIN	0 	-400	-100
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_renovation.bmp"
+	HEIGHT	-100
+}
